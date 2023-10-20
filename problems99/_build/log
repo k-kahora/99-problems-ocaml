@@ -1,0 +1,5 @@
+# dune init project problems99
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /home/malcolm/Projects/ocaml/99/problems99
+# Auto-detected concurrency: 8
